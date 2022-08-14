@@ -2,6 +2,9 @@
 
 ### What is a "component"?
 
+- A component is a modular part of a design's architecture.
+- A component > "provides a higher level of abstraction and divides the problem into sub-problems, each associated with component partitions.
+- > "A component encapsulates functionality and behaviors of a software element into a reusable and self-deployable binary unit.
 
 ### What are the characteristics of a component?
 
@@ -29,13 +32,13 @@
 
 Properties.
 
-### 5. How are props used in React?
+### How are props used in React?
 
 - Props refers to data used in a component, such as HTML attributes, text content, and children/nested components. Props is an object that is input into a component/function. This object is always named “props”. Component HTML attributes are properties of the props object (props.attribute), and it also has some standard properties as well (such as props.children).
 - Props is an object that is input into components to pass data (including state) down.
-- > “When React sees an element representing a user-defined component, it passes JSX attributes and children to this component as a single object. We call this object “props”.”
+- > “When React sees an element representing a user-defined component, it passes JSX attributes and children to this component as a single object. We call this object 'props'.”
 
-### 6. What is the flow of props?
+### What is the flow of props?
 
 Data from props flows from the top ancestors in the hierarchical tree, down to their children. It only ever flows in this one direction. Props cannot be passed to sibling components, or from child components to their ancestors. Props are also read-only.
 
@@ -56,14 +59,5 @@ React is considered a library, not a framework. The difference is that framework
 1. Conventional view - components are viewed as a function or module.
 2. Object-oriented view - components are viewed as an object class.
 3. Process-related view - components are maintained in a library and organized into different types, such as UI components, utility components, resource intensive components, etc.
-
-What are the characteristics of components?
-
-1. Reusable
-2. Replaceable
-3. Not context specific (i.e. agnostic)
-4. Extensible
-5. Encapsulated
-6. Independent
 
 ## Things I want to know more about
