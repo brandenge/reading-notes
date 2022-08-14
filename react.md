@@ -1,6 +1,6 @@
 # React Notes
 
-What is the difference between React and ReactDOM?
+## What is the difference between React and ReactDOM?
 
 They are 2 separate libraries. React provides the core functionality which is a user interface library that generates raw user interface components and is agnostic to how those components are used/consumed. React being agnostic allows it to work in many different environments.
 
