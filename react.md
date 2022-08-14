@@ -1,6 +1,45 @@
 # React Notes
 
-## What is the difference between React and ReactDOM?
+### What is a "component"?
+
+
+### What are the characteristics of a component?
+
+1. Reusable - components can be used in many different situations and in many different applications.
+2. Replaceable - components can be easily substituted with other similar components.
+3. Not context specific (i.e. agnostic) - can be used in any runtime environment.
+4. Extensible - new code can be added without changing old code.
+5. Encapsulated - implementation details are private, uses a public interface.
+6. Independent - no dependencies on other components.
+
+### What are the advantages of using component-based architecture?
+
+1. Ease of deployment - greater backward compatibility.
+2. Reduced cost - development costs can be more easily shared and spread to other stakeholders.
+3. Ease of development - the system is more modular and maintainable.
+4. Reusable - old code can more easily used again.
+5. Modification of technical complexity - complexity can be managed through component containers and services.
+6. Reliability - the entire system becomes more resilient to failure.
+7. System maintenance and evolution - the entire system is extensible.
+8. Independent - reduced dependencies between components.
+
+[Source on Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+
+### What is "props" short for?
+
+Properties.
+
+### 5. How are props used in React?
+
+- Props refers to data used in a component, such as HTML attributes, text content, and children/nested components. Props is an object that is input into a component/function. This object is always named “props”. Component HTML attributes are properties of the props object (props.attribute), and it also has some standard properties as well (such as props.children).
+- Props is an object that is input into components to pass data (including state) down.
+- > “When React sees an element representing a user-defined component, it passes JSX attributes and children to this component as a single object. We call this object “props”.”
+
+### 6. What is the flow of props?
+
+Data from props flows from the top ancestors in the hierarchical tree, down to their children. It only ever flows in this one direction. Props cannot be passed to sibling components, or from child components to their ancestors. Props are also read-only.
+
+### What is the difference between React and ReactDOM?
 
 They are 2 separate libraries. React provides the core functionality which is a user interface library that generates raw user interface components and is agnostic to how those components are used/consumed. React being agnostic allows it to work in many different environments.
 
@@ -8,11 +47,11 @@ ReactDOM provides the functionality and methods for React that are specific to t
 
 Note that it is important to understand the difference between the two as React elements are not DOM elements. React elements are just native JavaScript objects. React elements are transformed into DOM elements by the ReactDOM library. Also there are generally more things you can do with React elements than with DOM elements.
 
-## Is React a framework or a library?
+### Is React a framework or a library?
 
 React is considered a library, not a framework. The difference is that frameworks usually have a lot of helper functions and impose a certain way for how everything has to be organized. React is more lightweight, less opinionated, and has less constraints than a traditional framework such as Angular would have.
 
-## What are the 3 views of component-oriented design?
+### What are the 3 views of component-oriented design?
 
 1. Conventional view - components are viewed as a function or module.
 2. Object-oriented view - components are viewed as an object class.
@@ -26,3 +65,5 @@ What are the characteristics of components?
 4. Extensible
 5. Encapsulated
 6. Independent
+
+## Things I want to know more about
