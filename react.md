@@ -8,6 +8,21 @@ ReactDOM provides the functionality and methods for React that are specific to t
 
 Note that it is important to understand the difference between the two as React elements are not DOM elements. React elements are just native JavaScript objects. React elements are transformed into DOM elements by the ReactDOM library. Also there are generally more things you can do with React elements than with DOM elements.
 
-Is React a framework or a library?
+## Is React a framework or a library?
 
 React is considered a library, not a framework. The difference is that frameworks usually have a lot of helper functions and impose a certain way for how everything has to be organized. React is more lightweight, less opinionated, and has less constraints than a traditional framework such as Angular would have.
+
+## What are the 3 views of component-oriented design?
+
+1. Conventional view - components are viewed as a function or module.
+2. Object-oriented view - components are viewed as an object class.
+3. Process-related view - components are maintained in a library and organized into different types, such as UI components, utility components, resource intensive components, etc.
+
+What are the characteristics of components?
+
+1. Reusable
+2. Replaceable
+3. Not context specific (i.e. agnostic)
+4. Extensible
+5. Encapsulated
+6. Independent
