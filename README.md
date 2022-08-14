@@ -17,6 +17,6 @@ code block
 ```
 - [This is a link](https://github.com/brandenge)
 
-### [React Notes](/reading-notes/react.md)
+### [React Notes](react.md)
 
 ## Code 401 - Advanced Software Development
