@@ -10,7 +10,7 @@ Notes for reading assignments in Code Fellows.
 - *This is italicized text*
 - > This is a quote
 - `This is an inline code block`
-- ```
+```
 This is a 
 multiline 
 code block
