@@ -19,4 +19,6 @@ code block
 
 ### [React Notes](react.md)
 
+### [React State and Props Notes](react-state-and-props.md)
+
 ## Code 401 - Advanced Software Development
