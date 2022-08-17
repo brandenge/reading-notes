@@ -23,4 +23,6 @@ code block
 
 ### [React Passing Functions as Props](react-passing-functions-as-props.md)
 
+### [React and Forms](react-and-forms.md)
+
 ## Code 401 - Advanced Software Development
