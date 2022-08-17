@@ -21,4 +21,6 @@ code block
 
 ### [React State and Props Notes](react-state-and-props.md)
 
+### [React Passing Functions as Props](react-passing-functions-as-props.md)
+
 ## Code 401 - Advanced Software Development
