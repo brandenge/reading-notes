@@ -4,9 +4,15 @@
 
 ### What is a ‘Controlled Component’?
 
+It a class component that holds state and also sets the "value" property within its state object for the purposes of allowing other components to also track any updates to the value attribute of an input element. Any changes to the input can be tracked in the state object, and then other components can see that state.
+
 ### Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
 
+Update the state with their responses as soon as they enter them. This way you can give the user feedback as they type so they don't have to wait until they submit to get feedback/errors.
+
 ### How do we target what the user is entering if we have an event handler on an input field?
+
+In the event handler, use event.target.value, and set the function to accept an 'event' parameter, which will be the event object.
 
 ## The Ternary Operator Explained
 
