@@ -12,6 +12,9 @@
 
 ### Why would we use a ternary operator?
 
+1. If you want to shorten your if/else statement into a single line of code.
+2. If your want your if/else statement to return a value, so that it can be saved to variable or returned from a function, for example.
+
 ### Rewrite the following statement using a ternary statement:
 
 ```
@@ -20,6 +23,11 @@ if(x===y){
 } else {
   console.log(false);
 }
+```
+
+Rewrite:
+```
+console.log(x === y ? true : false);
 ```
 
 ## Things I want to know more about
