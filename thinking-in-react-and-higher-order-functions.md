@@ -1,6 +1,10 @@
 
 # Thinking in React and Higher Order Functions
 
+The Thinking in React article is very relevant to the module because it is about how to approach building in React. I think this would have been very useful to read earlier in the module actually, like for class 2 even.
+
+The section on higher order functions is also relevant because React components act a lot like higher order functions as well, since components can return other components. Additionally, the interactivity between components also uses higher order functions as callback functions are passed around as event handlers, and other such use cases.
+
 ## Thinking in React
 
 ### What is the single responsibility principle and how does it apply to components?
@@ -46,3 +50,5 @@ Calling both functions at the same time using what looks like double-invoking pa
 map and reduce (and the other built-in array iterating methods) are higher order functions because they take a callback function as an argument. We can then think of these functions as being implemented with a traditional for-loop, where they call the callback function and pass in each element in the array as an argument to the callback function as it iterates through the array.
 
 In the case of map, it creates a new array and returns it. In the case of reduce, it uses a variable that saves the returned value of the previous iteration through the array. This is very powerful and allows you to essentially replace any of the other built-in array iterating methods. This previous value variable can also be initialized to anything you want.
+
+## Things I want to know more about
