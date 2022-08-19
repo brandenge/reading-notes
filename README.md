@@ -25,4 +25,6 @@ code block
 
 ### [React and Forms](react-and-forms.md)
 
+### [Thinking in React and Higher Order Functions](https://github.com/brandenge/reading-notes/blob/main/thinking-in-react-and-higher-order-functions.md)
+
 ## Code 401 - Advanced Software Development
