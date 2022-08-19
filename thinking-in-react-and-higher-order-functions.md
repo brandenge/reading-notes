@@ -5,23 +5,25 @@
 
 ### What is the single responsibility principle and how does it apply to components?
 
-
+The single responsibility principle stats that every object (whether a function, a class, or a React component) should have only one role. It can be stated in other ways too, such "should have only one reason to change" or "be responsible for one thing".
 
 ### What does it mean to build a ‘static’ version of your application?
 
-
+Static means that it has no interactivity. Nothing changes dynamically at run-time.
 
 ### Once you have a static application, what do you need to add?
 
-
+State and interactivity.
 
 ### What are the three questions you can ask to determine if something is state?
 
-
+1. Is it passed in from a parent via props? If so, it probably isn’t state.
+2. Does it remain unchanged over time? If so, it probably isn’t state.
+3. Can you compute it based on any other state or props in your component? If so, it isn’t state.
 
 ### How can you identify where state needs to live?
 
-
+I like to think of it as the lowest common ancestor that uses the state. But that is just a bare minimum, obviously if state is held below the common ancestor that uses it, then any components that need the state but aren't a child of that component won't be able to use it, and it simply won't work. However, there is also a reason to not just put all state at the highest component all the time, because it will pollute scope, and it will require passing the state through additional unnecessary layers in the component hierarchy, which adds complexity.
 
 ## Higher Order Functions
 
