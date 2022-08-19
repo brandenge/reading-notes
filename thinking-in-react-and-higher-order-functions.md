@@ -3,7 +3,11 @@
 
 The Thinking in React article is very relevant to the module because it is about how to approach building in React. I think this would have been very useful to read earlier in the module actually, like for class 2 even.
 
+Source: [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
 The section on higher order functions is also relevant because React components act a lot like higher order functions as well, since components can return other components. Additionally, the interactivity between components also uses higher order functions as callback functions are passed around as event handlers, and other such use cases.
+
+Source: [Higher Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 
 ## Thinking in React
 
