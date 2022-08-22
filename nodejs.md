@@ -38,8 +38,19 @@ For running JavaScript on the server, or locally on your computer, outside of th
 
 ### What are the 6 reasons for pair programming?
 
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from each other
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness 
+
 ### In your experience, which of these reasons have you found most beneficial?
 
+Learning from each other. Every developers has different strengths and weaknesses. Pair programming helps to teach where you are stronger than your partner, and learn from them where you are weaker.
+
 ### How does pair programming work?
+
+Programmers pair up, with one driver and one navigator. The driver has their hands on the keyboard and types the code. They are more focused on the syntax. The navigator is observing the driver, thinking about solutions, higher-level about design, and conducting research when needed. If both programmers get stuck, they can both switch to researching. Both programmers are constantly communicating throughout.
 
 ## Things I want to know more about
