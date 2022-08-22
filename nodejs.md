@@ -1,5 +1,7 @@
 # NODE.JS
 
+This reading is relevant because we will be using Node.js to execute our JavaScript code on the back-end. And we will start to use pair programmer in class.
+
 ## An Introducftion to NODE.JS
 
 ### What is node.js?
