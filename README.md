@@ -27,4 +27,6 @@ code block
 
 ### [Thinking in React and Higher Order Functions](https://github.com/brandenge/reading-notes/blob/main/thinking-in-react-and-higher-order-functions.md)
 
+### [NODE.JS](nodejs.md)
+
 ## Code 401 - Advanced Software Development
