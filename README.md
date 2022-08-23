@@ -29,4 +29,6 @@ code block
 
 ### [NODE.JS](nodejs.md)
 
+### [REST](rest.md)
+
 ## Code 401 - Advanced Software Development
