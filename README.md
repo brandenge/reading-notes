@@ -31,4 +31,6 @@ code block
 
 ### [REST](rest.md)
 
+### [APIs](api.md)
+
 ## Code 401 - Advanced Software Development
