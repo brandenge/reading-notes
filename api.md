@@ -33,19 +33,19 @@ If you fragment your resources into smaller, more specific buckets of data each 
 
 ### What status code does a successful GET request return?
 
-200.
+200 if there was some content to return in the response. Otherwise, 204 for no content.
 
 ### What status code does an unsuccessful GET request return?
 
-This could be any number of things. There are several ways that an unsucessful GET request could return. Namely, any 400 or 500 status code.
+This could be any number of things. There are several ways that an unsucessful GET request could return. Namely, any 400 or 500 status code. But most commonly, it is a 404 for not found.
 
 ### What status code does a successful POST request return?
 
-200
+201 (created) if a new resource was created. Otherwise, 200 (ok) or 204 (no content) if nothing was created.
 
 ### What status code does a successful DELETE request return?
 
-200
+204
 
 ## Things I want to know more about
 
