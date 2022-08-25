@@ -50,3 +50,5 @@ You assign the function names or variables that you want to be able to import in
 ### What do we have to do to make a module available?
 
 You assign the function names or variables that you want to be able to import in by assigning them to a property within the module.exports object.
+
+## Things I want to know more about
