@@ -33,4 +33,6 @@ code block
 
 ### [APIs](api.md)
 
+### [Functional Programming](functional-programming.md)
+
 ## Code 401 - Advanced Software Development
