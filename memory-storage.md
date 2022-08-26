@@ -20,7 +20,7 @@ Last-In-First-Out. This is in contrast with a queue, which is FIFO or First-In-F
 
 ### Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
 
-
+![The Call Stack](callstack.png)
 
 ```
 cat();
