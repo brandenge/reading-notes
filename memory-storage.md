@@ -64,7 +64,7 @@ This means that the code is written incorrectly such that it cannot be parsed co
 
 ### What is a ‘range error’?
 
-Accessing an array index that is out of bounds.
+Giving an object with a length property an invalid length. For example, giving an array a negative length.
 
 ### What is a ‘type error’?
 
