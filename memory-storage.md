@@ -1,6 +1,6 @@
 # In Memory Storage
 
-
+This is relevant for understanding recursion, functional progarmming, and computer science more broadly. Also, debugging is a fundamental programming skill that is always relevant as well.
 
 ## Understanding the JavaScript Call Stack
 
@@ -44,8 +44,6 @@ function pig() {
 function bird() {
   return 'This is the end of this call stack example';
 }
-
-
 ```
 
 ### What causes a Stack Overflow?
