@@ -1,5 +1,6 @@
 # Diversity & Inclusion in the Tech Industry
 
+This topic matters is relevant to Code Fellows because Code Fellows is itself a diverse school and learning environment. The company itself is diverse, and also the students we are learning with are diverse.
 
 ### What occurred during the same time as the beginning of the decline of women in computer science?
 
