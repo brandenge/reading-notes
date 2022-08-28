@@ -1,5 +1,7 @@
 # CRUD
 
+This reading is relevant because we are working with front-end clients, back-end servers, and 3rd-party APIs that are all talking to each other with HTTP requests, using RESTful APIs, and HTTP status codes.
+
 ## Status Codes Based on REST Methods
 
 Source: [Which HTTP Status Code To Use For Every CRUD App](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
