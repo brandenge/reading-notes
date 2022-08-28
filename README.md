@@ -45,4 +45,6 @@ code block
 
 ### [Diversity and Inclusion in the Tech Industry](diversity.md)
 
+### [Authentication](authentication.md)
+
 ## Code 401 - Advanced Software Development
