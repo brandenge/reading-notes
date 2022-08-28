@@ -39,4 +39,6 @@ code block
 
 ### [Mongo and Mongoose](mongo.md)
 
+### [CRUD](crud.md)
+
 ## Code 401 - Advanced Software Development
