@@ -43,4 +43,6 @@ code block
 
 ### [More CRUD](more-crud.md)
 
+### [Diversity and Inclusion in the Tech Industry](diversity.md)
+
 ## Code 401 - Advanced Software Development
