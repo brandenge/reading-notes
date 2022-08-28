@@ -23,7 +23,7 @@ Data sets that require a moderate or high number of join operations.
 
 "The following examples are a non-exhaustive list of companies using SQL, Kaggle, Microsoft, Stack-overflow, Cisco, Walmart, Robinhood, Reddit, Uber, Netflix, Instagram, delivery hero, and Spotify."
 
-Source[Mohaned Mashaley - Medium article](https://mohaned-mashaly12.medium.com/use-cases-of-sql-and-nosql-when-to-use-what-52bf9688cf5c)
+Source: [Mohaned Mashaley - Medium article](https://mohaned-mashaly12.medium.com/use-cases-of-sql-and-nosql-when-to-use-what-52bf9688cf5c)
 
 ### What kind of data is a good fit a NoSQL database?
 
@@ -56,7 +56,7 @@ Source: [DataStax](https://www.datastax.com/blog/sql-vs-nosql-whats-the-differen
 
 "companies using NoSQL are Uber, Lyft, and delivery hero, Paytm, Accenture, Alibab travels."
 
-Source[Mohaned Mashaley - Medium article](https://mohaned-mashaly12.medium.com/use-cases-of-sql-and-nosql-when-to-use-what-52bf9688cf5c)
+Source: [Mohaned Mashaley - Medium article](https://mohaned-mashaly12.medium.com/use-cases-of-sql-and-nosql-when-to-use-what-52bf9688cf5c)
 
 ### Which type of database is best for hierarchical data storage?
 
