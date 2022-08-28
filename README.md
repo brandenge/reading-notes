@@ -37,4 +37,6 @@ code block
 
 ### [In memory storage](memory-storage.md)
 
+### [Mongo and Mongoose](mongo.md)
+
 ## Code 401 - Advanced Software Development
