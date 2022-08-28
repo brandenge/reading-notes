@@ -1,5 +1,7 @@
 # Mongo and Mongoose
 
+Mongo and Mongoose are relevant to our learning because we are about to start using them to attach databases to our applications.
+
 ## Sql vs Nosql (reading)
 
 Source: [The Geek Stuff](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
