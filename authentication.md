@@ -44,26 +44,26 @@ Authentication verifies a user's identity. It ensures that the person is who the
 
 ### What is Authorization Code Flow?
 
-
+The process of a web application exchanging an authorization code for a token.
 
 ### What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
 
-
+An extension of OAuth 2.0 that has an added security measure (the proof key) to grant additional security and protect against certain security flaws in OAuth 2.0, such as injection attacks, which can be more dangerous in certain situations.
 
 ### What is Implicit Flow with Form Post?
 
-
+This is for applications that cannot securely store client secrets, such as a token. It uses the POST method on a form to perform the handshake necessary for OAuth instead. It is not best practice and is considered less secure.
 
 ### What is Client Credentials Flow?
 
-
+An alternative way of authenticating and authorizing that uses a client ID and a client secret, instead of a username and password. It is mean for machine-to-machine communication.
 
 ### What is Device Authorization Flow?
 
-
+This sends a user a link to go to and click on in order to authorize a device. This is common for mobile devices where entering text is less convenient.
 
 ### What is Resource Owner Password Flow?
 
-
+This is an authentication and authorization flow that just relies on a username and password. It is not recommended and considered less secure, probably mostly because users statistically will be likely to have weak passwords.
 
 ## Things I want to know more about
