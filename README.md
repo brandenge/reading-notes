@@ -2,6 +2,10 @@
 
 Notes for reading assignments in Code Fellows.
 
+## Code 401 - Intermediate Software Development
+
+### [Data Structures and Algorithms](data-structures-and-algorithms.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
