@@ -1,5 +1,7 @@
 # Data Structures and Algorithms
 
+These topics are relevant because they are fundamental topics for computer science and software engineering. Data Structures and algorithms impact the performance and scalability of software.
+
 ### What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 
 The expected size of the data, how the data relates to one another, what operations you need to perform with the data, and how frequently do you need to perform each operation.
