@@ -6,6 +6,6 @@ The expected size of the data, how the data relates to one another, what operati
 
 ### How can we ensure that we’ll avoid an infinite recursive call stack?
 
-We must have a base case (also known as a base condition), which should be at the top of the recursive function's body so that it is evaluated before anything else in the . We must also check to make sure that the base case will eventually evaluate as true. Otherwise, it the base condition will be incorrect, still never get evaluated, and still result in an infinite recursive call.
+We must have a base case (also known as a base condition), which should be at the top of the recursive function's body so that it is evaluated before anything else in the recursive function's body. We must also check to make sure that the base case will eventually evaluate as true. Otherwise, the base condition will be incorrect, still never get evaluated, and still result in an infinite recursive call.
 
 ## Things I want to know more about
