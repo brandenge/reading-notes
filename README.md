@@ -6,6 +6,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Data Structures and Algorithms](data-structures-and-algorithms.md)
 
+### [Engineering Readings](engineering-readings.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
