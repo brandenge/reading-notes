@@ -8,8 +8,8 @@ The combination of my unique and diverse set of experiences. This includes my ba
 
 ### What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
 
-1. Talk outloud your understanding of the problem (i.e. rubber duck debugging).
-2. Google search for additional relevant information
+1. Talk outloud my understanding of the problem (i.e. rubber duck debugging).
+2. Google search to get other ideas and other possibly relevant information.
 3. Take a break from the problem and come back to it later.
 
 ## Things I want to know more about
