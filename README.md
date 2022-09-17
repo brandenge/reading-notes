@@ -2,7 +2,7 @@
 
 Notes for reading assignments in Code Fellows.
 
-## Code 401 - Intermediate Software Development
+## Code 401 - Advanced Software Development
 
 ### [Data Structures and Algorithms](data-structures-and-algorithms.md)
 
