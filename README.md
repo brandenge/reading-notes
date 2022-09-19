@@ -8,6 +8,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Engineering Readings](engineering-readings.md)
 
+### [Terminal](terminal.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
