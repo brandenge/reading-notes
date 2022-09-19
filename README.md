@@ -12,6 +12,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Growth Mindset](growth-mindset.md)
 
+### [SQL](sql.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
