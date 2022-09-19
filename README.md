@@ -10,6 +10,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Terminal](terminal.md)
 
+### [Growth Mindset](growth-mindset.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
