@@ -8,7 +8,10 @@ Tables are related to one another in a relational database by matching a primary
 
 Exercise Completions:
 
-
+Exercise 1: ![Exercise 1](/images/sql1.png)
+Exercise 2: ![Exercise 2](/images/sql2.png)
+Exercise 3: ![Exercise 3](/images/sql3.png)
+Exercise 4: ![Exercise 4](/images/sql4.png)
 
 Sources:
 - [SQLBolt](https://sqlbolt.com/)
