@@ -23,3 +23,7 @@ This is relevant to the course because the command line terminal is a fundamenta
 
 
 ### Cheat Sheet - A quick reference for the main points covered in this tutorial.
+
+Reference: [Ryans Tutorials - Linux Tutorial - Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
+
+Source: [Ryans Tutorials - Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
