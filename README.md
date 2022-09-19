@@ -14,6 +14,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [SQL](sql.md)
 
+### [Node](node.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
