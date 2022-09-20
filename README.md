@@ -16,6 +16,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Node](node.md)
 
+### [Express, NPM, TDD, CI/CD](express-npm-tdd-ci-cd.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
