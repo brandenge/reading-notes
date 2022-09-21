@@ -14,6 +14,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [SQL](sql.md)
 
+### [Express REST API](express-rest-api.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
@@ -22,12 +24,15 @@ Notes for reading assignments in Code Fellows.
 - *This is italicized text*
 - > This is a quote
 - `This is an inline code block`
-```
-This is a 
-multiline 
+
+```Text
+This is a
+multiline
 code block
 ```
+
 - [This is a link](https://github.com/brandenge)
+- ![This is an image]()
 
 ### [React Notes](react.md)
 
@@ -58,5 +63,3 @@ code block
 ### [Diversity and Inclusion in the Tech Industry](diversity.md)
 
 ### [Authentication](authentication.md)
-
-## Code 401 - Advanced Software Development
