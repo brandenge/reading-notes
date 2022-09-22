@@ -14,6 +14,10 @@ Notes for reading assignments in Code Fellows.
 
 ### [SQL](sql.md)
 
+### [Node](node.md)
+
+### [Express, NPM, TDD, CI/CD](express-npm-tdd-ci-cd.md)
+
 ### [Express REST API](express-rest-api.md)
 
 ### [Data Modeling](data-modeling.md)
