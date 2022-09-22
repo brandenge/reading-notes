@@ -16,6 +16,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Express REST API](express-rest-api.md)
 
+### [Data Modeling](data-modeling.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
