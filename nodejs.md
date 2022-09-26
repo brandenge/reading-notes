@@ -45,7 +45,7 @@ For running JavaScript on the server, or locally on your computer, outside of th
 3. Learning from each other
 4. Social skills
 5. Job interview readiness
-6. Work environment readiness 
+6. Work environment readiness
 
 ### In your experience, which of these reasons have you found most beneficial?
 

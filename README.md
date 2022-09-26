@@ -22,6 +22,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Data Modeling](data-modeling.md)
 
+### [Authentication](authentication2.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
