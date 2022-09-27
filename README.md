@@ -24,6 +24,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Authentication](authentication2.md)
 
+### [Bearer Authorization](bearer-authorization.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
