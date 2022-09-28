@@ -26,6 +26,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Bearer Authorization](bearer-authorization.md)
 
+### [Access Control (ACL)](access-control.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
