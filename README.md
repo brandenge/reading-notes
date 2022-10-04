@@ -30,6 +30,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Event Driven Applications](event-driven-applications.md)
 
+### [Socket.io](socket-io.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes

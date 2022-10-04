@@ -22,5 +22,6 @@ Exercise 17: ![Exercise 17](/images/sql17.png)
 Exercise 18: ![Exercise 18](/images/sql18.png)
 
 Sources:
+
 - [SQLBolt](https://sqlbolt.com/)
 - [Learn SQL - by The Data School by Chartio](https://landing.chartio.com/download-learn-sql)
