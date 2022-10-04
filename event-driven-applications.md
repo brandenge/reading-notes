@@ -1,5 +1,7 @@
 # Event Driven Application
 
+This is an important topic because event-driven design is a very common topic in object-oriented programming, and is a common design/programming paradigm in many modern applications. Event driven programming goes well with object-oriented programming in particular.
+
 ## Event Driven Programming
 
 ### What native Node.js module allows us to get started with Event Driven Programming?
