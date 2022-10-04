@@ -28,6 +28,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Access Control (ACL)](access-control.md)
 
+### [Event Driven Applications](event-driven-applications.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
