@@ -32,6 +32,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Socket.io](socket-io.md)
 
+### [Message Queues](message-queues.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
