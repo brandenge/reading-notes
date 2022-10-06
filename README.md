@@ -34,6 +34,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Message Queues](message-queues.md)
 
+### [Event Driven Architecture](event-driven-architecture.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
