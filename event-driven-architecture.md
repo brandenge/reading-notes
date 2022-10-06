@@ -1,6 +1,6 @@
 # Event Driven Architecture
 
-### Project Ideas
+## Project Ideas
 
 1) Real-time chat application
 2) A support ticketing system
