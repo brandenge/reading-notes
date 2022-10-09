@@ -36,6 +36,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Event Driven Architecture](event-driven-architecture.md)
 
+### [Amazon Web Services](amazon-web-services.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
