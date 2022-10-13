@@ -42,6 +42,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [AWS API Gateway, Dynamo, and Lambda](aws-api-gateway-dynamo-lambda.md)
 
+### [AWS Events](aws-events.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
