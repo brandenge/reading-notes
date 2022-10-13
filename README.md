@@ -38,6 +38,10 @@ Notes for reading assignments in Code Fellows.
 
 ### [Amazon Web Services](amazon-web-services.md)
 
+### [AWS S3 and Lambda](aws-s3-lambda.md)
+
+### [AWS API Gateway, Dynamo, and Lambda](aws-api-gateway-dynamo-lambda.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
