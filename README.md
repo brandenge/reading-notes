@@ -44,6 +44,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [AWS Events](aws-events.md)
 
+### [Component Based UI](component-based-ui.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
