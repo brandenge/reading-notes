@@ -46,6 +46,10 @@ Notes for reading assignments in Code Fellows.
 
 ### [Component Based UI](component-based-ui.md)
 
+### [React Hooks](react-hooks.md)
+
+### [React Component Lifecycle / useEffect Hook](component-lifecycle-hook.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
