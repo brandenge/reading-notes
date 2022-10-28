@@ -50,6 +50,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [React Component Lifecycle / useEffect Hook](component-lifecycle-hook.md)
 
+### [Advanced State with Reducers](advanced-state-with-reducers.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
