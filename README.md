@@ -52,6 +52,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Advanced State with Reducers](advanced-state-with-reducers.md)
 
+### [Context API](context-api.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
