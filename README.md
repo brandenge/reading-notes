@@ -56,6 +56,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Context API - Behaviors](context-api-behaviors.md)
 
+### [Login and Auth](login-and-auth.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
