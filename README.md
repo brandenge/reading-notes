@@ -62,6 +62,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Application State with Redux](application-state-with-redux.md)
 
+### [Redux - Combined Reducers](redux-combined-reducers.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
