@@ -58,6 +58,10 @@ Notes for reading assignments in Code Fellows.
 
 ### [Login and Auth](login-and-auth.md)
 
+### [API Integration](api-integration.md)
+
+### [Application State with Redux](application-state-with-redux.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
