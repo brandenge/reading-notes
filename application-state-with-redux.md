@@ -50,15 +50,27 @@ Just a deeper understanding of Redux, how it works, and why it works the way it 
 
 ### Does Redux have built-in protections against direct mutations of the state object, or must developers enforce/avoid/prevent mutations themselves (such as by using a deepFreeze method)?
 
+Yes Redux does prevent this, and it does so by throwing errors.
+
 ### What is the benefit of not modifying state directly?
 
 It preserves snapshots of state for the purposes of better logging, easier debugging, better testability, and enabling a variety of advanced application features, such as hot reloading (seeing state changes without reloading the entire application), time travel (going back to a prior saved state, or mimicking a future state), and the use of new dev tools. It also allows you to decouple what state changed from how it changed, or presentation components (like the view in MVC architecture) from behaviors (like the controller in MVC).
 
 ### What is the benefit of dispatching actions to reducer functions (using the dispatch method), instead of just calling the reducer function directly? Is this like a functional programming technique?
 
+Dispatch methods use an action object. This pattern of using an action object leaves a data trail of all changes to state. Otherwise it would just be a bunch of function calls that are more difficult to log and preserve what was called and in what order. This is what allows you to create snapshots of state, and more easily implement other more advance features using state.
+
+Also note that you cannot call reducer functions directly. If you were to do that, it would not do anything. They would not update the state object in the store, because the reducer must be called by the store directly in order for it to update state properly. And the only way to get the store to make the call to the reducer, is by using the dispatch method, with an action object.
+
 ### Why does Redux need to use the props object if it is using the Context API? Why do we still want to pass state through props when using Redux instead of using it like a Context API?
 
+This provides a kind of scope to the state for each component, so that each component only has scope/access to the state and dispatch actions that it needs. This is done using the connect method from the react-redux library, which takes a mapStateToProps and mapDispatchToProps object, to connect them to the component. This is similar to declaring state in the component the normal React way, without Redux.
+
+Without using them through props like this, if you just call store.getState() to get the whole state object in the store wherever you want for any component, then any change of state will force a re-render of the entire application, instead of only just the component that that state is being used by. This would obviously crush performance of an application.
+
 ### What is Redux middleware?
+
+This is for performing asyncronous operations with state, such as fetching/API calls. For example, using the thunk library.
 
 ### How do you break down a store into multiple sub-stores? And why would you want to do this?
 
