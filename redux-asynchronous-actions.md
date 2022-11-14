@@ -74,4 +74,6 @@ Note that the applyMiddleware() is part of Redux, but only needed for Redux Thun
 
 The Redux Thunk repo's readme file state that it is useful for swapping out an API service layer for a mock service in tests. But I do not fully understand this.
 
-### What does "the return value of dispatch" mean? I thought dispatch just sent an action object which triggers the store to call the root reducer to update its state.
+### What does "the return value of dispatch" mean?
+
+I thought dispatch just sent an action object which triggers the store to call the root reducer to update its state.
