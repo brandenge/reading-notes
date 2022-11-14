@@ -66,6 +66,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Redux - Asynchronous Actions](redux-asynchronous-actions.md)
 
+### [Redux - Redux Additional Topics](redux-additional-topics.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
