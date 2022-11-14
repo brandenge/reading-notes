@@ -64,6 +64,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Redux - Combined Reducers](redux-combined-reducers.md)
 
+### [Redux - Asynchronous Actions](redux-asynchronous-actions.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
