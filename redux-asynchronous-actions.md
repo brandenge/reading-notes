@@ -58,17 +58,19 @@ Just getting more comfortable with all the syntax and code structure of using Re
 
 ## Things I want to know more about
 
+### What are enhancer functions in Redux?
+
+This is just the name of the function that is returned by applyMiddleware(), which is the Redux built-in function that applies the middleware to Redux. This enhancer function is the second argument (which is optional) to the createStore() function (after the rootReducer argument).
+
+Note that the applyMiddleware() is part of Redux, but only needed for Redux Thunk if not using the Redux toolkit (the same for using the connect() function, which is more part React Redux, but only needed if not using Redux toolkit). Otherwise, the configureStore() function from Redux toolkit will apply Thunk middleware automatically.
+
 ### In the "Saving ToDo Items" section of the Redux docs on Async Actions, why do we not have access to the text of the new ToDo item being saved? Why is this not just part of the action payload, just like anything else? How is this different where wrapping the middleware function with another synchronous function that accepts a text parameter is necessary?
 
 This is part of the "action creator" or "action generator" pattern, whereby you write a function that returns the action object. But it is still not clear to me why we have to use the action creator pattern here and are unable to do it by dispatching the action object directly, just like normal.
 
 ### How do you break down a store into multiple sub-stores and why would you want to do this? Is this similar to, or correlated with using multiple different root reducer functions with combineReducer() ?
 
-### What are enhancer functions in Redux?
 
-This is just the name of the function that is returned by applyMiddleware(), which is the Redux built-in function that applies the middleware to Redux. This enhancer function is the second argument (which is optional) to the createStore() function (after the rootReducer argument).
-
-Note that the applyMiddleware() is part of Redux, but only needed for Redux Thunk if not using the Redux toolkit (the same for using the connect() function, which is more part React Redux, but only needed if not using Redux toolkit). Otherwise, the configureStore() function from Redux toolkit will apply Thunk middleware automatically.
 
 ### How does injecting a custom argument into configureStore() work?
 
