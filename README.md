@@ -70,6 +70,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [React Native](react-native.md)
 
+### [Ethics in Tech](ethics-in-tech.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
