@@ -72,6 +72,8 @@ Notes for reading assignments in Code Fellows.
 
 ### [Ethics in Tech](ethics-in-tech.md)
 
+### [OSS Contributions and Frameworks](javascript-frameworks.md)
+
 ## Code 301 - Intermediate Software Development
 
 ### Markdown Notes
